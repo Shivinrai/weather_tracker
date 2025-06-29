@@ -9,9 +9,6 @@ A modern web application to get real-time weather information for any city, powe
 - ⚡ Fast, AJAX-based search (no page reloads)
 - 🔒 API keys and secrets are protected via `.env`
 
-## Demo
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
 ## Tech Stack
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS (custom, responsive), JavaScript (vanilla)
@@ -72,7 +69,6 @@ weather-website/
 
 ## Security
 - `.env` is included in `.gitignore` and will not be committed to git.
-- **Never share your API keys publicly.**
 
 ## Credits
 - [Flask](https://flask.palletsprojects.com/)
